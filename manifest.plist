@@ -12,7 +12,7 @@
                 <key>kind</key>
                 <string>software-package</string>
                 <key>url</key>
-                <string>https://raw.githubusercontent.com/ashen-zhao/plist/master/app.ipa</string>
+                <string>http://10.10.24.11/~ashen/app.ipa</string>
             </dict>
             <!-- <dict>
                 <key>kind</key>
